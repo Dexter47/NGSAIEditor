@@ -48,4 +48,8 @@ Although the application may make it way easier to handle queries, it is always 
   Not every exception is handled, it may and will crash if you don't use the expected values (TO-DO).
   
   # Thanks
-  Special thanks to [@PatricNox](https://github.com/PatricNox) for being just as awesome as he is and being an exceptional friend-for-all-times, workmate and leader :simple_smile:
+  Special thanks to [@PatricNox](https://github.com/PatricNox) for being just as awesome as he is and being an exceptional friend-for-all-times, workmate and leader!
+  
+  Authored by Nyeriah (NoxGaming Network)
+  
+  ![penguin](http://static.skaip.org/img/emoticons/180x180/f6fcff/penguinkiss.gif)
