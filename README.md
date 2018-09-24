@@ -6,10 +6,11 @@ Offer an easy-to-use, user friendly platform for unexperienced users to start wo
 
 Although the application may make it way easier to handle queries, it is always encouraged to search and learn how to write queries on your own.
 
-# System Requirements
+# Requirements
   1. .NET Framework 4.6.1 or newest
   1. MySQL 6.10 or newest
   1. A TrinityCore database installation (check TrinityCore's repository or ours [NoxGaming](https://github.com/NoxGaming/TrinityCore))
+  1. Indiscriminate love for penguins of all races.
   
   # Installation
   Install the required software and set up the world database that will be used by the application to get SmartAI entries from, compile the code and run it.
@@ -47,4 +48,4 @@ Although the application may make it way easier to handle queries, it is always 
   Not every exception is handled, it may and will crash if you don't use the expected values (TO-DO).
   
   # Thanks
-  Special thanks to [@PatricNox](https://github.com/PatricNox) for being just as awesome as he is and being an exceptional friend-for-all-times, workmate and leader.
+  Special thanks to [@PatricNox](https://github.com/PatricNox) for being just as awesome as he is and being an exceptional friend-for-all-times, workmate and leader :simple_smile:
